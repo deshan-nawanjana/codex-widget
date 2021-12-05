@@ -1,0 +1,3 @@
+bm = New Bitmap(p.Image)
+bm.SetPixel(45, 67, Color.FromArgb(255, 44, 56, 34))
+p.Image = bm

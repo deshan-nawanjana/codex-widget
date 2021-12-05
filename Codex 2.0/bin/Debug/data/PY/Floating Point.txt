@@ -1,0 +1,30 @@
+print "%f" %100
+#Input will showing as Floating Point number.
+
+print "%.2f" %1234
+#Input will showing as Floating Point number.
+#Only display with 2 characters behind of the point.
+
+print "%.1f" %1212.1212
+#Input will showing as Floating Point number.
+#Only display with 1 character behind of the point.
+
+print "%5.2f" %12.5555
+#Input will showing as Floating Point number.
+#Only display with 2 characters behind of the point.
+#Display with 5 characters front of the point.
+
+print "%12.3f" % 34.56689
+#Input will showing as Floating Point number.
+#Only display with 3 characters behind of the point.
+#Display with 12 characters front of the point.
+
+print "Rs.%.0f" %1234.9456
+#Input will showing as Floating Point number.
+#Display without any characters behind of the point.
+#And 'Rs.' string will display front of the answer.
+
+print "Rs.%.2f" %1234.9456
+#Input will showing as Floating Point number.
+#Only display with 2 characters behind of the point.
+#And 'Rs.' string will display front of the answer.

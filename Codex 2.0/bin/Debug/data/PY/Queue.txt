@@ -1,0 +1,8 @@
+from collections import deque
+queue=deque(['Saman','Amal','Kamal'])
+print "PEOPLE IN QUEUE"
+for i in queue:
+    print i
+
+print queue1.get()
+print queue1.get()

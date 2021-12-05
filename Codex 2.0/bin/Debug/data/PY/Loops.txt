@@ -1,0 +1,16 @@
+counter = 1
+print "This will be display only once"
+while counter <= 10:
+    print counter
+    counter = counter + 1
+print
+print "This will be display only once"
+#Printing string never print again.
+#But counter will print because it in the loop.
+
+for a in "SAMPLE TEXT":
+    print a
+    
+for a in range(10,21,2):
+    print a
+#Print numbers in 10 to 20 (20 mean 21) from 2 for 2.

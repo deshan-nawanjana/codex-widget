@@ -1,0 +1,13 @@
+x ="The Encoded text"
+
+print x.encode('base64','strict')
+#base64 mean Hexadecimal
+#The text will encode into base64 output text.
+
+y = x.encode('base64','strict')
+print y
+#Also you can give this encodeing for a Variable.
+
+print y.decode('base64', 'strict')
+#y is the Variable of encoded text.
+#The encoded text will be decode.

@@ -1,0 +1,5 @@
+Dim fo() As String = IO.Directory.GetDirectories("C:\")
+	For Each file As String In fo
+	Dim fx As New IO.DirectoryInfo(file)
+	ListBox1.Items.Add(fx.Name)
+Next

@@ -1,0 +1,10 @@
+s="   NAME   "
+
+print s.strip()
+#Remove all free spaces.
+
+print s.lstrip()
+#Remove leading free spaces.
+
+print s.rstrip()
+#Remove trialing free spaces.

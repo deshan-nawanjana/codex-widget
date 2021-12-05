@@ -1,0 +1,14 @@
+Private Function GetColor(ByVal pic As PictureBox, ByVal X As Integer, ByVal Y As Integer) As Color
+	If pic Is Nothing Then Return Nothing
+	Using tmp As New Bitmap(pic.ClientSize.Width, pic.ClientSize.Height)
+	Dim r As New Rectangle(0, 0, tmp.Width, tmp.Height)
+	Using g As Graphics = Graphics.FromImage(tmp)
+	g.DrawImage(pic.Image, r, r, GraphicsUnit.Pixel)
+	End Using
+	Return tmp.GetPixel(X, Y)
+	End Using
+End Function
+
+Private Sub PictureBox1_MouseMove(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles PictureBox1.MouseMove
+	Dim col As Color = GetColor(PictureBox1, e.X, e.Y)
+End Sub

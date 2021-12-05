@@ -1,0 +1,5 @@
+   For Each ff As String In My.Computer.FileSystem.GetFiles( _
+                  "C:\", _
+                   FileIO.SearchOption.SearchAllSubDirectories, "*.*")
+            Dim fx As New IO.FileInfo(ff)
+        Next

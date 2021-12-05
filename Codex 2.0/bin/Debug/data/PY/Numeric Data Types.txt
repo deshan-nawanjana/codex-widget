@@ -1,0 +1,49 @@
+import sys
+print sys.maxint
+#Display maximum Integer characters count in Python Program.
+
+print type (sys.maxint+1)
+#Display Type of (maximum Integer characters count)+1 in Python Program.
+#The Type will be 'Long'
+
+x="abc"
+#Insert a string for a variable.
+
+print type(x)
+#Display Type of the variable.
+#The Type will be 'String'
+
+y="123"
+#Insert a string for a variable.
+#When Numbers with " mark, It will become a String.
+
+print type (y)
+#Display Type of the variable.
+#The Type will be 'String'
+
+x=100
+#Insert a integer for a variable.
+
+y=0x644
+#When insert 0x with a value, It means the value is a Hexadecimal Number.
+
+z=0o144
+#When insert 0o with a value, It means the value is a Octal Number.
+
+print type (x)
+#Display Type of the variable.
+
+print type(y)
+#Display Type of the variable.
+
+print x-y
+#Display range of two variables.
+
+print x==y
+#Asking True or False : Is (Value of x) = (Value of y).
+
+print type (x==y)
+#True or False is the Boolian type.
+
+print type (x!=y)
+#Asking True or False : Is Not (Value of x) = (Value of y).

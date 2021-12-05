@@ -1,0 +1,16 @@
+import math
+print math.factorial (5)
+#Display value of Factorial 5 (Factorial 5 = 5*4*3*2*1)
+
+x = math.factorial (1000)
+#Give value of Factorial 1000 for a variable.
+#This answer will too big.
+
+print len(str(x))
+#Display how many characters for the Factorial 1000.
+
+y = math.factorial (50)
+#Give value of Factorial 50 for a variable.
+
+print y
+#Display value of Factorial 50 (Factorial 50 = 50*49*48*.......*2*1)

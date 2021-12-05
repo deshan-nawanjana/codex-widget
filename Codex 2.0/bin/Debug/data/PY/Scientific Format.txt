@@ -1,0 +1,16 @@
+print "%e" %123.456
+#Display Value with the Scientific Format. 
+
+print "%e" %0.000123
+#Display Value with the Scientific Format.
+
+x=434.321
+#Give value for Variable.
+
+print "%e" %x
+#Display Variable with the Scientific Format.
+#Use simaple 'x', Output will contained with simaple letters.
+
+print "%E" %1234.235
+#Display Variable with the Scientific Format.
+#Use capital 'X', Output will contained with capital letters.

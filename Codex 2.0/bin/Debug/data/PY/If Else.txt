@@ -1,0 +1,27 @@
+y=5
+
+if y==5:
+    print 'y=5'
+#If y value is five, then print 'y=5'.
+
+if y==6:
+    print 'y=6'
+else:
+    print 'y is not 6'
+#If y value is six, then print 'y=6'.
+#Else print 'y is not 6'.
+
+marks=input('Input your marks : ')
+print "Result is",
+
+if marks>=75:
+    print 'A'
+elif marks>=65:
+    print 'B'
+elif marks>=55:
+    print 'C'
+elif marks>=45:
+    print 'S'
+else:
+    print 'F'
+#the If statement will select the marks level.

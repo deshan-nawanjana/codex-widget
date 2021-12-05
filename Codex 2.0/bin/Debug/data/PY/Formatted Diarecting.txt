@@ -1,0 +1,33 @@
+print "%d" %100
+#100 will convert into Decimal value.
+
+print "%i" %100
+#The Fixed Points will not display with the answer.
+
+print "%7d" %100
+#100 will convert into Decimal value. And display it with 7 characters.
+#Residual characters will show as free spaces.
+
+print "abc%d" %100
+#100 will convert into Decimal value.
+#And 'abc' string will display front of the answer.
+
+print "%x" %100
+#100 will convert into Hexadecimal value.
+
+print "%x" %14
+#100 will convert into Hexadecimal value.
+#Use simaple 'x', Output will contained with simple letters. (10=a,11=b,..)
+
+print "%X" %14
+#100 will convert into Hexadecimal value.
+#Use capital 'X', Output will contained with capital letters. (10=a,11=b,..)
+
+print "%x" %16.99
+#The Fixed Points will not support for the answer.
+
+print "%o" % 8
+#8 will convert into Octal value.
+
+print "%#o" %100
+#8 will convert into Octal value. The answer will display with 0 front of the value.

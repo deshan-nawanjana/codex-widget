@@ -1,0 +1,17 @@
+print 2.1
+#Use 'Print' code for display something in the Shell.
+
+print 22/7
+#The Fixed Points will not display with the answer.
+
+print 22/7.0
+#The Fixed Points will display with the answer.
+
+print 22.0/7
+#The Fixed Points will display with the answer.
+
+print 10/3 + 13/2
+#The Fixed Points will not display with the answer.
+
+print 10.0/3 + 13.0/2
+#The Fixed Points will display with the answer.

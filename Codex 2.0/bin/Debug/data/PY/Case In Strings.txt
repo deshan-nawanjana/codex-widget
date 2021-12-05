@@ -1,0 +1,33 @@
+a="lanka"
+b="LANKA"
+
+print a.capitalize()
+#Capitalize only first letter.
+
+print a.upper()
+#Capitalize all letters.
+
+print b.lower()
+#Lower all letters.
+
+print "\n" *5
+#Clear screen from 5 lines.
+
+
+c="letter"
+
+print c.islower()
+#Boolean will be true, If all letters with simple letters in the string.
+
+print c.isupper()
+#Boolean will be true, If all letters with capital letters in the string.
+
+d="my school"
+
+print d.capitalize()
+#Capitalize only first letter in the paragraph.
+
+e="First letter"
+
+print e.islower()
+#Boolean will be true, If all letters with simple letters in the string.

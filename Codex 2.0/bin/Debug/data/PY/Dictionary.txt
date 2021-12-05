@@ -1,0 +1,16 @@
+dict_1={}
+#Create a new empty Dictionary.
+
+dict_1['one']="This is one"
+#Add new item into Dictionary.
+
+dict_2={'name':'deshan','age':'18','village':'madampe'}
+
+print dict_2
+#Print full of dictionary.
+
+print dict_2.keys()
+#Print all keys in the Dictionary.
+
+print dict_2.values()
+#Print all values in the Dictionary.

@@ -1,0 +1,16 @@
+print '25'.zfill(5)
+#Print 25 with 5 characters. But '25' has only 2 characters.
+#So other 3 characters will show as '0'.
+
+print '{0} and {1}'.format('P','Q')
+#0 and 1 show as P and Q.
+#You cannot change this 0 and 1 numbers again.
+
+print '{0} and {1} or {2}'.format('P','Q','R')
+#0,1 and 2 show as P,Q and R.
+#You cannot change this numbers again.
+
+print '\nMy Address :\n{0},\n{1},\n{2}.'.format('56 D','Karukkuwa','Madampe')
+#0,1 and 2 show as strings.
+
+print '{2} and {1} or {2}'.format('P','Q','R')

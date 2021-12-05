@@ -1,0 +1,14 @@
+L=input('Enter the Length')
+B=input('Enter the Breadth')
+Area=L*B
+print "Answer is", Area
+#When you run this program, It will ask to enter a value for Length and Breadth.
+#Finally, The Area will display after the calculation.
+
+L=input('Enter the Length')
+B=input('Enter the Breadth')
+Area=L*B
+print "Answer is", "%.2f" %Area
+#When you run this program, It will ask to enter a value for Length and Breadth.
+#Finally, The Area will display after the calculation.
+#Display with 2 zeros behind of the point.

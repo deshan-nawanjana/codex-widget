@@ -1,0 +1,10 @@
+a="Programming in Python"
+
+print a.center(50 ,' ')
+#Center text with 50 space from left and 50 space from right.
+
+print a.center(50 ,'*')
+#Center text with 50 * from left and 50 * from right.
+
+print a.center()
+#Output will be a Err, Because need to input a value for center the word.

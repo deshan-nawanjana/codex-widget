@@ -1,0 +1,83 @@
+txt="Sri"
+#Give a text for a String.
+
+print "My Country is " + txt +" Lanka."
+#We can Combine more than one strings using '+'.
+
+print "A" * 10
+#The string will multiplication 10 times.
+
+print "spam eggs"
+#Type string with 'inverted comma' for display it as a text.
+
+print '"Yes". He said.'
+#When you need to display 'double inverted comma' in a
+#string use 'single inverted comma' for outside of the text.
+
+print 'doesn\'t'
+#You can insert a Back Slash '\' front of ' mark to display it in the text.
+
+print "\"yes,\"he said"
+#You can insert a Back Slash '\' front of " mark to display it in the text.
+
+print "One\nTwo"
+#When we insert '\n' into srting, the next letters will go to the new line.
+
+txt="abc"
+#Give a text for a String.
+
+print len(txt)
+#Display number of characters in the srting.
+
+c="klm"
+#Give a text for a String.
+
+help(c.capitalize)
+#Display help for using capitalize a srting.
+
+x="a b c"
+#Give a text for a String.
+
+if "a" in x :
+        print "yes"
+else :
+        print "no"
+#This is a IF-Then-Else Selection.
+#If found letter 'a' in the string, The answer will be 'yes'. And Display 'yes'
+#If cannot find letter 'a' in the string, The answer will be 'no'. And Display 'no'
+
+b="xyz"
+#Give a text for a String.
+
+print type(x)
+#Display Type of Variable.
+#The type will be 'String'.
+
+x="abc"
+#Give a text for a String.
+
+print dir(x)
+#Disply methods of Strings. We can use this methods for get outputs from strings.
+
+print "Line one" ; "Line two"
+#Display in two lines.
+
+print "This",
+print "and this in the same line."
+#Display two strings in a one line.
+
+print '''Line One
+Line Two
+Line Three'''
+#Display srting with few lines.
+
+txt="ABCDEF"
+
+print txt[0]
+#Display first letter in the srting.
+
+print txt[0:4]
+#Display first 4 letters in the srting.
+
+print txt[2:]
+#Display all letters after the 3rd letter in the srting.

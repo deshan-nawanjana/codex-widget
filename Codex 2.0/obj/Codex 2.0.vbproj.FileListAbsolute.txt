@@ -1,0 +1,16 @@
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\Codex 2.0.exe
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\Codex_2._0.xml
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\Codex 2.0.pdb
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\bin\Debug\Codex 2.0.exe
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\bin\Debug\Codex 2.0.pdb
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\bin\Debug\Codex_2._0.xml
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\Codex_2._0.Form1.resources
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\Codex_2._0.Resources.resources
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\Codex 2.0.vbproj.GenerateResource.Cache
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\Codex_2._0.Form2.resources
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\Codex_2._0.Form3.resources
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\Codex_2._0.Form4.resources
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\Codex_2._0.Form5.resources
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\Codex_2._0.Form6.resources
+D:\My Projects\Visual Basic\Codex 2.0\Codex 2.0\obj\Debug\Codex_2._0.Form7.resources

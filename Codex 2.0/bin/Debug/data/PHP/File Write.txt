@@ -1,0 +1,4 @@
+
+$fh = fopen($myFile,'w') or die("cant open file");
+fwrite($fh,$lvx);
+fclose($fh);

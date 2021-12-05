@@ -1,0 +1,18 @@
+a=5
+b=7
+#Give values for Variables
+
+print a+b
+print "abc"
+print 123
+#Display output calulations into the Shell
+
+a=2*3
+#Give values for Variables as a equation
+
+b=4
+c= b-a
+#Give values for Variables
+
+print c
+#Display output calulations into the Shell

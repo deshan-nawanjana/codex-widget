@@ -1,0 +1,13 @@
+x="This is a sentence of t variable. And this is a Python program"
+
+y=x.count('a')
+print y
+#Count and display how many 'a' letters in the sentence.
+
+z=x.count('t')
+print z
+#When we input simple 't' into process, The capital letters will ignore.
+
+a=x.count('is')
+print a
+#Also we can use more than one llter for the process.

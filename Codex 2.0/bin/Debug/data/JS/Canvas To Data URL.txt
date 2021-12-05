@@ -1,0 +1,8 @@
+img.onload = function () {  
+    ctx.drawImage(img, 0, 0, myCanvas.width, myCanvas.height);
+
+    var data = myCanvas.toDataURL("image/png");
+    if (!window.open(data)) {
+        document.location.href = data;
+    }
+}

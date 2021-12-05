@@ -1,0 +1,18 @@
+print "I live in Madampe,\nSri Lanka"
+#Sentese will seperate into two line from \n part.
+
+print "\n" * 7
+#Screen will clear, Beacuse 7 free lines will print the the shell.
+
+
+print "Please don\'t smoke."
+#No need to insert a 
+
+print 'Please don\'t smoke.'
+#When we need to insert a ' symbol into string, insert \ before of ' symbol.
+
+print "This is the \"Sri Lanka\"."
+#When we need to insert a " symbol into string, insert \ before of " symbol.
+
+print "One\tTwo\tThree"
+#Insert '\t' for disply Tab Space in a string.
